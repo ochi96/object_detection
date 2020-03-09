@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Downloads</folder>
 	<filename>IMG_20200308_163346.jpg</filename>
-	<path>/home/bram/Downloads/labelled traffic objects/IMG_20200308_163346.jpg</path>
+	<path>data/images/traffic objects/IMG_20200308_163346.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
