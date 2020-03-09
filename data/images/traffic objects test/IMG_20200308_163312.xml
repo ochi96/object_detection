@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Downloads</folder>
-	<filename>IMG_20200308_163346.jpg</filename>
-	<path>data/images/traffic objects/IMG_20200308_163346.jpg</path>
+	<folder>traffic objects</folder>
+	<filename>IMG_20200308_163312.jpg</filename>
+	<path>data/images/traffic objects test/IMG_20200308_163312.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>575</xmin>
-			<ymin>670</ymin>
-			<xmax>1060</xmax>
-			<ymax>1320</ymax>
+			<xmin>282</xmin>
+			<ymin>1054</ymin>
+			<xmax>714</xmax>
+			<ymax>1429</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3015</xmin>
-			<ymin>870</ymin>
-			<xmax>3415</xmax>
-			<ymax>1270</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Go</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1531</xmin>
-			<ymin>861</ymin>
-			<xmax>2016</xmax>
-			<ymax>1511</ymax>
+			<xmin>3530</xmin>
+			<ymin>1089</ymin>
+			<xmax>3962</xmax>
+			<ymax>1464</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,34 +41,58 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2730</xmin>
-			<ymin>995</ymin>
-			<xmax>2910</xmax>
-			<ymax>1360</ymax>
+			<xmin>2841</xmin>
+			<ymin>1156</ymin>
+			<xmax>3273</xmax>
+			<ymax>1531</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>40kph</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2321</xmin>
+			<ymin>1179</ymin>
+			<xmax>2753</xmax>
+			<ymax>1554</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1456</xmin>
+			<ymin>1115</ymin>
+			<xmax>1888</xmax>
+			<ymax>1490</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>go</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>979</xmin>
+			<ymin>1225</ymin>
+			<xmax>1411</xmax>
+			<ymax>1600</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>pedestrian</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2305</xmin>
-			<ymin>400</ymin>
-			<xmax>2660</xmax>
-			<ymax>1690</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>pedestrian</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2885</xmin>
-			<ymin>2060</ymin>
-			<xmax>4020</xmax>
-			<ymax>2465</ymax>
+			<xmin>1245</xmin>
+			<ymin>2472</ymin>
+			<xmax>2108</xmax>
+			<ymax>3120</ymax>
 		</bndbox>
 	</object>
 </annotation>
