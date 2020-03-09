@@ -1,0 +1,74 @@
+<annotation>
+	<folder>traffic objects</folder>
+	<filename>IMG_20200308_162942.jpg</filename>
+	<path>/home/bram/Downloads/traffic objects/IMG_20200308_162942.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>40kph</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>829</ymin>
+			<xmax>1139</xmax>
+			<ymax>1422</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1645</xmin>
+			<ymin>1085</ymin>
+			<xmax>1958</xmax>
+			<ymax>1585</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>zone B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2483</xmin>
+			<ymin>1085</ymin>
+			<xmax>2814</xmax>
+			<ymax>1491</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>zone A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2908</xmin>
+			<ymin>1122</ymin>
+			<xmax>3064</xmax>
+			<ymax>1460</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>20kph</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3470</xmin>
+			<ymin>2041</ymin>
+			<xmax>3939</xmax>
+			<ymax>2247</ymax>
+		</bndbox>
+	</object>
+</annotation>

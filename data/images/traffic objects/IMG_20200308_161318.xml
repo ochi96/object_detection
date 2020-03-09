@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Downloads</folder>
+	<filename>IMG_20200308_161318.jpg</filename>
+	<path>/home/bram/Downloads/IMG_20200308_161318.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zone A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2205</xmin>
+			<ymin>650</ymin>
+			<xmax>2955</xmax>
+			<ymax>1505</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>40kph</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>800</xmin>
+			<ymin>575</ymin>
+			<xmax>1710</xmax>
+			<ymax>1490</ymax>
+		</bndbox>
+	</object>
+</annotation>

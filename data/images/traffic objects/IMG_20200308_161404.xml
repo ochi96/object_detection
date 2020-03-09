@@ -1,0 +1,38 @@
+<annotation>
+	<folder>traffic objects</folder>
+	<filename>IMG_20200308_161404.jpg</filename>
+	<path>/home/bram/Downloads/traffic objects/IMG_20200308_161404.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>20kph</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>714</xmin>
+			<ymin>829</ymin>
+			<xmax>1564</xmax>
+			<ymax>1572</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>zone B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2314</xmin>
+			<ymin>785</ymin>
+			<xmax>3070</xmax>
+			<ymax>1579</ymax>
+		</bndbox>
+	</object>
+</annotation>

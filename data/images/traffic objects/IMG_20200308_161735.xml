@@ -1,0 +1,38 @@
+<annotation>
+	<folder>traffic objects</folder>
+	<filename>IMG_20200308_161735.jpg</filename>
+	<path>/home/bram/Downloads/traffic objects/IMG_20200308_161735.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>247</ymin>
+			<xmax>1633</xmax>
+			<ymax>2404</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2464</xmin>
+			<ymin>922</ymin>
+			<xmax>3527</xmax>
+			<ymax>2391</ymax>
+		</bndbox>
+	</object>
+</annotation>

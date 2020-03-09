@@ -1,0 +1,26 @@
+<annotation>
+	<folder>traffic objects</folder>
+	<filename>IMG_20200308_161139.jpg</filename>
+	<path>/home/bram/Downloads/traffic objects/IMG_20200308_161139.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zone A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>869</xmin>
+			<ymin>1367</ymin>
+			<xmax>1675</xmax>
+			<ymax>2267</ymax>
+		</bndbox>
+	</object>
+</annotation>
