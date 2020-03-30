@@ -1,0 +1,26 @@
+<annotation>
+	<folder>newpictures</folder>
+	<filename>IMG_20200330_133450.jpg</filename>
+	<path>E:\newpictures\IMG_20200330_133450.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>20kph</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>737</xmin>
+			<ymin>1093</ymin>
+			<xmax>2430</xmax>
+			<ymax>2880</ymax>
+		</bndbox>
+	</object>
+</annotation>
