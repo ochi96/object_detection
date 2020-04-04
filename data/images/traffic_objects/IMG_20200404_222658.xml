@@ -1,0 +1,38 @@
+<annotation>
+	<folder>newpictures</folder>
+	<filename>IMG_20200404_222658.jpg</filename>
+	<path>E:\newpictures\IMG_20200404_222658.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zone B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>569</ymin>
+			<xmax>1553</xmax>
+			<ymax>1664</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>40kph</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2939</xmin>
+			<ymin>616</ymin>
+			<xmax>3834</xmax>
+			<ymax>1659</ymax>
+		</bndbox>
+	</object>
+</annotation>
