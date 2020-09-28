@@ -1,0 +1,50 @@
+<annotation>
+	<folder>new_generation</folder>
+	<filename>Screenshot_20200928-112509_Chrome.jpg</filename>
+	<path>E:\new_generation\Screenshot_20200928-112509_Chrome.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>40 kph</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>423</ymin>
+			<xmax>347</xmax>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>40 kph</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>265</ymin>
+			<xmax>719</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>40 kph</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>790</ymin>
+			<xmax>682</xmax>
+			<ymax>1004</ymax>
+		</bndbox>
+	</object>
+</annotation>
