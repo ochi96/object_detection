@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new_generation</folder>
+	<filename>20201113_201752.jpg</filename>
+	<path>E:\new_generation\20201113_201752.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2320</width>
+		<height>4128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zone A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>529</xmin>
+			<ymin>1845</ymin>
+			<xmax>1366</xmax>
+			<ymax>2595</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1898</xmin>
+			<ymin>1376</ymin>
+			<xmax>2320</xmax>
+			<ymax>2833</ymax>
+		</bndbox>
+	</object>
+</annotation>

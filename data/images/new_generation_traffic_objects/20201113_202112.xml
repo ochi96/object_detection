@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_generation</folder>
+	<filename>20201113_202112.jpg</filename>
+	<path>E:\new_generation\20201113_202112.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4128</width>
+		<height>2322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zone A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1405</xmin>
+			<ymin>265</ymin>
+			<xmax>2891</xmax>
+			<ymax>1933</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+	<folder>new_generation</folder>
+	<filename>IMG_20200308_162450.jpg</filename>
+	<path>E:\new_generation\IMG_20200308_162450.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>1378</ymin>
+			<xmax>1432</xmax>
+			<ymax>2931</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>40 kph</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1679</xmin>
+			<ymin>1216</ymin>
+			<xmax>2294</xmax>
+			<ymax>1850</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>zone B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1479</xmin>
+			<ymin>2173</ymin>
+			<xmax>2284</xmax>
+			<ymax>2735</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>zone A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2498</xmin>
+			<ymin>1907</ymin>
+			<xmax>3113</xmax>
+			<ymax>2445</ymax>
+		</bndbox>
+	</object>
+</annotation>

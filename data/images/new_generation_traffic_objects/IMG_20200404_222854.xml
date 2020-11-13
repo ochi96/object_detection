@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new_generation</folder>
+	<filename>IMG_20200404_222854.jpg</filename>
+	<path>E:\new_generation\IMG_20200404_222854.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>794</xmin>
+			<ymin>345</ymin>
+			<xmax>2118</xmax>
+			<ymax>2035</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>zone A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2594</xmin>
+			<ymin>483</ymin>
+			<xmax>3508</xmax>
+			<ymax>1340</ymax>
+		</bndbox>
+	</object>
+</annotation>

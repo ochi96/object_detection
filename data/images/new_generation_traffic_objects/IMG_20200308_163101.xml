@@ -1,0 +1,50 @@
+<annotation>
+	<folder>new_generation</folder>
+	<filename>IMG_20200308_163101.jpg</filename>
+	<path>E:\new_generation\IMG_20200308_163101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zone B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>1297</ymin>
+			<xmax>946</xmax>
+			<ymax>2031</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>zone A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1165</xmin>
+			<ymin>1302</ymin>
+			<xmax>1770</xmax>
+			<ymax>1897</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1956</xmin>
+			<ymin>740</ymin>
+			<xmax>2684</xmax>
+			<ymax>2078</ymax>
+		</bndbox>
+	</object>
+</annotation>

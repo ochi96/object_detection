@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_generation</folder>
+	<filename>IMG_20200330_133650.jpg</filename>
+	<path>E:\new_generation\IMG_20200330_133650.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>447</xmin>
+			<ymin>300</ymin>
+			<xmax>2553</xmax>
+			<ymax>4013</ymax>
+		</bndbox>
+	</object>
+</annotation>
